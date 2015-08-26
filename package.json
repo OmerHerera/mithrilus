@@ -19,5 +19,8 @@
   "bugs": {
     "url": "https://github.com/OmerHerera/mithrilus/issues"
   },
-  "homepage": "https://github.com/OmerHerera/mithrilus"
+  "homepage": "https://github.com/OmerHerera/mithrilus",
+  "dependencies": {
+    "mithril": "^0.2.0"
+  }
 }
