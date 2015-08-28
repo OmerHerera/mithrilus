@@ -21,6 +21,7 @@
   },
   "homepage": "https://github.com/OmerHerera/mithrilus",
   "dependencies": {
+    "browserify": "^11.0.1",
     "mithril": "^0.2.0"
   }
 }
